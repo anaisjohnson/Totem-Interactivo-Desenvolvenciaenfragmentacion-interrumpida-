@@ -2,15 +2,12 @@
 
 ![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
 
-Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
+La definición de la imagen empezó por la descomposición de los elementos principales observados por cada uno de los integrantes, en primer lugar se definieron la situación observadas y que era necesario para que estas sucedieran.
 
-Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. Para escribir en estos archivos debes utilizar [lenguaje markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Revelación limitada desenvolvente ante la diversidad - Palabra clave [Desenvolver] - Movimiento 
+Extensión irregular interrumpida - Palabra clave [Interrumpida] - Luz 
+Reiteración fragmentada del encuentro -  Palabra clave [Fragmentación] - Movimiento
+Teniendo las palabras claves desenvolver, interrumpida y fragmentación, clasificamos las caracteristicas que queríamos destacar. Buscábamos mostrar un cuerpo que en su movimiento se desenvolviera dejando ver una nueva luz y expresión, optando por la característica giratoria para resaltar esta transformación, se empezó a desarrollar la idea de como este cuerpo al desenvolverse mostraría una fractura y una interrupción, lo que constaba que el tiempo de esta acción debía tener un quiebre fuerte y marcado (staccato), teniendo un desenlace ligado pero con un cambio claro de como este cuerpo se comprime.
 
-En este `README.md` principal debes incorporar:
-- La descripción general del proyecto
-- Declarar autores, colaboradores y otras circunstancias relevantes
-- Imágenes significativas
-- Describir la estructura de carpetas
-- Declarar herramientas y tecnologías utilizadas
+Para la busca y desarrollo de la membrana que daría vida a esta expresión, se experimento con pliegues de papel, jugando con el origami para dar vida en una forma abstracta y geométrica un movimiento ligado.
 
-El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
