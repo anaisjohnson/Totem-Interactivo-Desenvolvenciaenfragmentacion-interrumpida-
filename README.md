@@ -24,9 +24,12 @@ Materiales: Alambre tensado nº14
 # Arduino: programación de input y output
 
 
-Orden de input y output:                 1. Input: sensores de movimientos 
+Orden de input y output:   
+
+                                           1. Input: sensores de movimientos 
                                              Output: Luces
-                                          2. Input: Sensor de presión
+                                        
+                                           2. Input: Sensor de presión
                                              Output: motor - giro de la estructura
    
                                           3. Input: Sensor de movimiento
