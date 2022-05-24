@@ -1,6 +1,6 @@
 # Desenvolvencia en fragmentación Interrumpida - Totem Interactivo
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
+![Foto Representativa del Proyecto]
 
 La definición de la imagen empezó por la descomposición de los elementos principales observados por cada uno de los integrantes, en primer lugar se definieron la situación observadas y que era necesario para que estas sucedieran.
 
